@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Oi mãe tô na internet</h1>
+    return <h1>Aqui é o Brasil 🇧🇷</h1>
 }
 
 export default Home;
